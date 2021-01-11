@@ -1,3 +1,3 @@
-"# mobile-first-gridCss" 
-**canlı hali ektedir.**<br/>
+
+**Canlı Hali Ektedir.**<br/><br/>
 https://mobile-first-grid-css.girisimci.vercel.app/
